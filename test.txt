@@ -9,3 +9,4 @@ git push -u origin master
 echo "abc abc "
 git remote add origin https://github.com/kikkawahide/GitHello.git
 git push -u origin master
+echo " end "
